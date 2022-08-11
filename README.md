@@ -1,6 +1,8 @@
 # libroR-AnalisisDatos
 this project contains my solutions in R about analysing data from the book Analisis de datos con R from Mariano Mendez Suarez.
+
 This project includes the csv files that will be useful to run the R code.
+
 Each R code is from each chapter of the book.
 
 ## Table of Contents
